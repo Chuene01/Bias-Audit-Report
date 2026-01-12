@@ -1,6 +1,7 @@
 Bias & Fairness Audit Report
 
 Overview
+
 This repository contains a Bias and Fairness Audit Report implemented as a Jupyter Notebook.
 The notebook evaluates potential bias in machine learning predictions by analyzing group-wise performance, fairness metrics, and visual diagnostics, and it proposes mitigation strategies to address identified issues.
 
